@@ -1,7 +1,7 @@
 package bibliotheque.interfaces;
 
 /**
- * Interface Observable du pattern Observer.
+ * Interface Observable du pattern Observers.
  */
 public interface Observable {
     void ajouterObserver(Observer o);
